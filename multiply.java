@@ -6,5 +6,6 @@ public class multiply {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println(a*b);
+        sc.close();
     }
 }
